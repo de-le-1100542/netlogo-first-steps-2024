@@ -1,6 +1,6 @@
-# Netlogo first steps 2021
+# Netlogo first steps 2024
 
-This repository serves students and teachers of the 2021 Ecosystem Modeling course as a playground for experimenting with `git`, with `markdown` and to exchange code.
+This repository serves students and teachers of the 2024 Ecosystem Modeling course as a playground for experimenting with `git`, with `markdown` and to exchange code.
 
 # What to do
 
@@ -13,8 +13,8 @@ again, some random change
 You may use the `GitHub Desktop` client application, or another one like `Tortoise Git` or install `git` in your command line, then perform one of the `clone` actions:
 
 ```
-gh repo clone de-le-1100542/netlogo-first-steps-2021
-git clone https://github.com/de-le-1100542/netlogo-first-steps-2021.git
+gh repo clone de-le-1100542/netlogo-first-steps-2024
+git clone https://github.com/de-le-1100542/netlogo-first-steps-2024.git
 ```
 # What to do next
 
