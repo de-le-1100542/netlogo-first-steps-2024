@@ -49,7 +49,7 @@ to setup
   ]
 
   create-stones  5 [
-    set size 8
+    set size 10
     set color grey
     set speed 0
   ]
