@@ -4,7 +4,7 @@
 ; @author Carsten Lemmen
 ; @date 2021-05-26
 ;
-; This software is licensed under the Gnu Public Licence v3.0
+; @license CC0-1.0
 ; -----------------------------
 
 globals [
