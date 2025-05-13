@@ -1,5 +1,8 @@
-extensions [gis]
+; @author Carsten Lemmen <carsten.lemmen@leuphana.de>
+; @copyright CC0  Creative Commons Zero
+; @date 2024-04-29
 
+extensions [gis]
 
 globals [ owf-dataset ]
 
